@@ -2,21 +2,6 @@
 
 ## Deploy
 
-Deploy para o gh-pages, basicamente você irá dar o build, fazer todo o procedimento do git e adicionar a última linha que é para subir a pasta dist para a branch gh-pages
+Após sofrer um pouco com o deploy para o github pages estava pesquisando e encontrei o pacote gh-pages, apenas usei o comando npm install gh-pages e configurei o package.json para no comando deploy ele dar o build e subir a pasta dist no comando gh-pages, assim ficou extremamente simples.
 
-Tentei algumas formas de automatizar pelo actons do github mas sem sucesso
-
-``` 
-npm run build
-
-git add .
-
-git commit -m "deploy"
-
-git push
-
-git subtree push --prefix dist origin gh-pages
-
-```
-
-Ainda acontecem alguns problemas com o comando subtree e a branch gh-pages, devido a minha falta de conhecimento eu apago a branch e rodo o comando ```git subtree push --prefix dist origin gh-pages``` que ele cria uma nova branch e funciona, ainda irei aprender a fazer direito
+Para o deploy apenas use o comando ``` npm run gh-pages ``` estando na pasta root do projeto e com todos os módulos instalados
