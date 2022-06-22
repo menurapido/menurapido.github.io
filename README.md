@@ -18,3 +18,5 @@ git push
 git subtree push --prefix dist origin gh-pages
 
 ```
+
+Ainda acontecem alguns problemas com o comando subtree e a branch gh-pages, devido a minha falta de conhecimento eu apago a branch e rodo o comando ```git subtree push --prefix dist origin gh-pages``` que ele cria uma nova branch e funciona, ainda irei aprender a fazer direito
