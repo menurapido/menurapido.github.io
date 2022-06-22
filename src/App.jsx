@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Teste Header</h1>
+        <p>Testando se o deploy esta ok</p>
       </header>
     </div>
   )
