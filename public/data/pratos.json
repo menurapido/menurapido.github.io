@@ -1,0 +1,26 @@
+{
+    "pizza":[
+        {
+            "id": "1",
+            "nome": "Calabresa",
+            "descricao": "Pizza de calabreza",
+            "preco": "22.00",
+            "imagem": "calabresa.jpg"
+        },
+        {
+            "id": "2",
+            "nome": "Portuguesa",
+            "descricao": "Pizza de portuguesa",
+            "preco": "22.00",
+            "imagem": "portuguesa.jpg"
+        },
+        {
+            "id": "3",
+            "nome": "A Moda",
+            "descricao": "Pizza a moda da casa",
+            "preco": "22.00",
+            "imagem": "amoda.jpg"
+        }
+
+    ]
+}
