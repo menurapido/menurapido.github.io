@@ -1,0 +1,131 @@
+{
+    "pizza":[
+        {
+
+            "nome": "Calabresa",
+            "descricao": "Pizza de calabreza",
+            "preco": "22.00",
+            "imagem": "calabresa.jpg"
+        },
+        {
+
+            "nome": "Portuguesa",
+            "descricao": "Pizza de portuguesa",
+            "preco": "22.00",
+            "imagem": "portuguesa.jpg"
+        },
+        {
+
+            "nome": "A Moda",
+            "descricao": "Pizza a moda da casa",
+            "preco": "22.00",
+            "imagem": "amoda.jpg"
+        },
+        {
+
+            "nome": "Calabresa",
+            "descricao": "Pizza de calabreza",
+            "preco": "22.00",
+            "imagem": "calabresa.jpg"
+        },
+        {
+
+            "nome": "Portuguesa",
+            "descricao": "Pizza de portuguesa",
+            "preco": "22.00",
+            "imagem": "portuguesa.jpg"
+        },
+        {
+
+            "nome": "A Moda",
+            "descricao": "Pizza a moda da casa",
+            "preco": "22.00",
+            "imagem": "amoda.jpg"
+        },
+        {
+
+            "nome": "Calabresa",
+            "descricao": "Pizza de calabreza",
+            "preco": "22.00",
+            "imagem": "calabresa.jpg"
+        },
+        {
+
+            "nome": "Portuguesa",
+            "descricao": "Pizza de portuguesa",
+            "preco": "22.00",
+            "imagem": "portuguesa.jpg"
+        },
+        {
+
+            "nome": "A Moda",
+            "descricao": "Pizza a moda da casa",
+            "preco": "22.00",
+            "imagem": "amoda.jpg"
+        },
+        {
+
+            "nome": "Calabresa",
+            "descricao": "Pizza de calabreza",
+            "preco": "22.00",
+            "imagem": "calabresa.jpg"
+        },
+        {
+
+            "nome": "Portuguesa",
+            "descricao": "Pizza de portuguesa",
+            "preco": "22.00",
+            "imagem": "portuguesa.jpg"
+        },
+        {
+
+            "nome": "A Moda",
+            "descricao": "Pizza a moda da casa",
+            "preco": "22.00",
+            "imagem": "amoda.jpg"
+        },
+        {
+
+            "nome": "Calabresa",
+            "descricao": "Pizza de calabreza",
+            "preco": "22.00",
+            "imagem": "calabresa.jpg"
+        },
+        {
+
+            "nome": "Portuguesa",
+            "descricao": "Pizza de portuguesa",
+            "preco": "22.00",
+            "imagem": "portuguesa.jpg"
+        },
+        {
+
+            "nome": "A Moda",
+            "descricao": "Pizza a moda da casa",
+            "preco": "22.00",
+            "imagem": "amoda.jpg"
+        },
+        {
+
+            "nome": "Calabresa",
+            "descricao": "Pizza de calabreza",
+            "preco": "22.00",
+            "imagem": "calabresa.jpg"
+        },
+        {
+
+            "nome": "Portuguesa",
+            "descricao": "Pizza de portuguesa",
+            "preco": "22.00",
+            "imagem": "portuguesa.jpg"
+        },
+        {
+
+            "nome": "A Moda",
+            "descricao": "Pizza a moda da casa",
+            "preco": "22.00",
+            "imagem": "amoda.jpg"
+        }
+
+    ]
+}
