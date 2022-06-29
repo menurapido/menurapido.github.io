@@ -36,7 +36,7 @@ function App() {
     })
     return(
       <div className="card" style={{width:"90%"}}>
-        <h2>Pizzas</h2>
+        <img style={{width:'100%'}} src="./img/texto-pizza.jpg" alt="" />
         <DataTable style={{width:"100%"}} value={pratos}>
           <Column field="nome"header="Pizza"></Column>
           <Column field="preco" header="Preço"></Column>
